@@ -1,10 +1,10 @@
 ### 🔭 Diggin' deeper in
 - NextJs
-- Redux
+- Headless CMS & APIs
 - AWS
 
 ### 🛠 Tinkering with
-- TailwindCss
+- ChakraUI
 
 ### 👉🏻 Next on the list
 - Kubernetes & Orchestration
