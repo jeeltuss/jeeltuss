@@ -1,10 +1,8 @@
 ### 🔭 Diggin' deeper in
-- NextJs
-- Headless CMS & APIs
 - AWS
 
 ### 🛠 Tinkering with
-- ChakraUI
+- NextJs
 
 ### 👉🏻 Next on the list
 - Kubernetes & Orchestration
